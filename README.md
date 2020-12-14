@@ -18,3 +18,5 @@ Group of 4 created seperate websites and linked them together through a marketpl
  - User profile page where user can edit their info and upload a profile picture.
  - User authentication/authorization
  - Multiple filters for top products and ratings
+
+![Super Experience](SuperExperience.PNG)
